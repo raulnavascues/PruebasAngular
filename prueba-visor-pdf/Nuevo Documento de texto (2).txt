@@ -1,0 +1,1 @@
+https://unpkg.com/browse/ngx-extended-pdf-viewer@20.0.0/assets/pdf-4.1.889-es5.mjs
